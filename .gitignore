@@ -1,0 +1,5 @@
+build/
+temp/
+cmake-build-debug/
+resources.qrc
+.idea/
